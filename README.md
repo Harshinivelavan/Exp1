@@ -59,7 +59,8 @@ Communication Diagram
 
 Package Diagram
 
-<img width="1225" height="803" alt="Screenshot 2026-05-11 091114" src="https://github.com/user-attachments/assets/d9ec2918-bf54-4d8a-8b4c-83ddfc520889" />
+<img width="822" height="521" alt="Screenshot 2026-05-11 083630" src="https://github.com/user-attachments/assets/7dde8a75-497e-4254-9ce9-74058de0bab9" />
+
 
 
 
